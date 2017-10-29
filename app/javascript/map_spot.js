@@ -1,7 +1,6 @@
 export default function(node, inputNode, options) {
   const DEFAULT_CENTER = { lat: 38.898754, lng: -77.031563 };
   const DEFAULT_ZOOM = 17;
-
   this.options = options || {};
 
   this.node = node;
