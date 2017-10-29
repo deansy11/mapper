@@ -49,4 +49,5 @@ import MapSpot from './map_spot'
     mapSpot.getMap();
   }
 
+
 })();
